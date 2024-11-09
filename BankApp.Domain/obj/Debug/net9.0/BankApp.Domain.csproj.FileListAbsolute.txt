@@ -1,0 +1,11 @@
+D:\bankapp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.deps.json
+D:\bankapp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.dll
+D:\bankapp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.pdb
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.AssemblyInfoInputs.cache
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.AssemblyInfo.cs
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.dll
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\refint\BankApp.Domain.dll
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.pdb
+D:\bankapp\BankApp.Domain\obj\Debug\net9.0\ref\BankApp.Domain.dll

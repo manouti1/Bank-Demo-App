@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "BankApp.Api.Controllers.AccountsController",
+    "Method": "OpenAccount",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankApp.Application.Command.OpenAccountCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankApp.Api.Controllers.AccountsController",
+    "Method": "GetCustomerAccounts",
+    "RelativePath": "api/customers/{customerId}/accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
